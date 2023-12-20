@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Marcos Vinicius 🤙
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_viniciuspessoa16/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosviniciuspp/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosDEVinicius&show_icons=true&theme=dracula)
 
